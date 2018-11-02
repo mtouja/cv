@@ -147,7 +147,6 @@ hr {
   margin-top: 60px;
   padding-top: 140px;
   text-align: center;
-  background-attachment: relative;
   background-position: center center;
   min-height: 500px;
   width: 100%;
@@ -172,7 +171,7 @@ hr {
   color: white;
 }
 
-#intro {
+.intro {
   background: #2c3e50;
   padding-top: 60px;
   padding-bottom: 60px;
@@ -181,11 +180,11 @@ hr {
   text-align: justify;
 }
 
-#intro h5, p {
+.intro h5, p {
   color: white;
 }
 
-#intro i {
+.intro i {
   color: white;
   font-size: 20px;
   padding-right: 8px;
