@@ -21,6 +21,18 @@ h4 {
   font-size: 40px;
 }
 
+h5.thread {
+  color: #FFF !important;
+}
+
+h5.climb {
+  color: #FFF !important;
+}
+
+h5.boxe {
+  color: #FFF !important;
+}
+
 /* Paragraph & Typographic */
 
 p {
@@ -203,7 +215,7 @@ hr {
 }
 
 #footwrap {
-  background: #2c3e50;
+  background: #121212;;
   padding-top: 50px;
   padding-bottom: 50px;
 }
@@ -394,8 +406,8 @@ li {
   margin-bottom: 50px;
 }
 
-h5 .sport {
-  color: #FFF;
+p.mail a{
+  font-size: 20px;
 }
 
 
