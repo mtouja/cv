@@ -410,4 +410,10 @@ p.mail a{
   font-size: 20px;
 }
 
+@media screen and (max-width: 768px) {
+  #section-topbar i {
+    font-size: 12px !important;
+  }
+}
+
 
