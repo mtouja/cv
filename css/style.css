@@ -412,7 +412,10 @@ p.mail a{
 
 @media screen and (max-width: 768px) {
   #section-topbar i {
-    font-size: 12px !important;
+    font-size: 14px !important;
+  }
+  #headerwrap {
+    margin-top: 54px;
   }
 }
 
