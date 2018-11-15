@@ -354,6 +354,10 @@ img.logo {
   color: #355aab;
 }
 
+.ubuntu:hover{
+  color:#F76400;
+}
+
 .mongo:hover {
   color: #00a946;
 }
