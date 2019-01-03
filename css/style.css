@@ -326,6 +326,10 @@ img.logo {
   color: #e8d93d;
 }
 
+.express:hover {
+  color:#6f605e;
+}
+
 .node:hover{
   color: #66c83f;
 }
